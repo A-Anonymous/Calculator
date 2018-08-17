@@ -1,7 +1,7 @@
 package main
 
 import (
-	"jsq/stack"
+	"Calculator/stack"
 	"unicode"
 	"strconv"
 	"fmt"
